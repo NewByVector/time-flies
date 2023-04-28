@@ -1,0 +1,15 @@
+{
+  "name": "time-flies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "picpic init",
+    "build": "picpic build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@matrixage/picpic": "^1.5.4"
+  }
+}
